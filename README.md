@@ -17,7 +17,7 @@ This list is opensource so any suggestions and pull requests are more than welco
 ## Terraform
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?autoplay=true)| LinkedIn Learning | Beginner | 2 | [🏆](teste)
+| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?autoplay=true)| LinkedIn Learning | Beginner | 2 | [🏆](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/terraform-certified-linkedin.pdf)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first

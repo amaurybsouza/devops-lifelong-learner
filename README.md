@@ -25,7 +25,8 @@ This list is opensource so any suggestions and pull requests are more than welco
 ## DevOps Days
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
-| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?autoplay=true)| LinkedIn Learning | Beginner | 2 | [🏆](teste)
+| [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/)| DevOps Days | Community | +10 | [🏆](teste)
+| [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)| DevOps Days | Community | +10 | [🏆](teste)
 
 
 

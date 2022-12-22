@@ -9,15 +9,25 @@ This list is opensource so any suggestions and pull requests are more than welco
 <br></br>
 
 ## Contents:
-- [__🏅 Awesome Certificates__](#-awesome-certificates-)
-  - [__What is this?__](#what-is-this)
-  - [__Contents:__](#contents)
-    - [Security](#security)
+- [🏅 Awesome Certificates ](#-awesome-certificates-)
+  - [What is this?](#what-is-this)
+  - [Contents:](#contents)
+  - [Terraform](#terraform)
+  - [DevOps Days](#devops-days)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Terraform
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?autoplay=true)| LinkedIn Learning | Beginner | 2 | [🏆](teste)
+
+## DevOps Days
+| Course Name | Course Provider | Level | Hour(s) | Reward |
+| :------------- |:-------------|:-------------|:-------------:|:-----:|
+| [Learning Terraform](https://www.linkedin.com/learning/learning-terraform-15575129/learn-terraform-for-your-cloud-infrastructure?autoplay=true)| LinkedIn Learning | Beginner | 2 | [🏆](teste)
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
@@ -27,3 +37,9 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+
+
+

@@ -26,9 +26,7 @@ This list is opensource so any suggestions and pull requests are more than welco
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [DevOps Days Rio de Janeiro](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/)| DevOps Days | Community | +10 | [🏆](teste)
-| [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)| DevOps Days | Community | +10 | [🏆](teste)
-
-
+| [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)| DevOps Days | Community | +10 | [🏆](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/DevOps%20Days%20Recife%20Certificado.pdf)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first
